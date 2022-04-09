@@ -1,0 +1,251 @@
+{
+  "user": [
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 1
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 2
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 3
+    },
+    {
+      "username": "s@aa",
+      "password": "1e",
+      "id": 4
+    },
+    {
+      "username": "a",
+      "password": "a",
+      "id": 5
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 6
+    },
+    {
+      "username": "ss",
+      "password": "ss",
+      "id": 7
+    },
+    {
+      "username": "s@aa",
+      "password": "a",
+      "id": 8
+    },
+    {
+      "username": "s@aas",
+      "password": "s",
+      "id": 9
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "username": "aaa",
+      "password": "ssss",
+      "id": 11
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 12
+    },
+    {
+      "username": "s@aa",
+      "password": "aa",
+      "id": 13
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 14
+    },
+    {
+      "username": "s@a",
+      "password": "q",
+      "id": 15
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 16
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 17
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 18
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 19
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 20
+    },
+    {
+      "username": "s@a",
+      "password": "a",
+      "id": 21
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 22
+    },
+    {
+      "username": "ssdad",
+      "password": "aa",
+      "id": 23
+    },
+    {
+      "username": "ssdad",
+      "password": "a",
+      "id": 24
+    },
+    {
+      "username": "ssdad",
+      "password": "a",
+      "id": 25
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 26
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 27
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 28
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 29
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 30
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 31
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 32
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 33
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 34
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 35
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 36
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 37
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 38
+    },
+    {
+      "username": "ssdad",
+      "password": "aaaaa",
+      "id": 39
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "id": 40
+    },
+    {
+      "username": "admin123",
+      "password": "admin123",
+      "id": 41
+    }
+  ],
+  "students": [
+    {
+      "name": "Tas",
+      "sex": "M",
+      "class": "IV",
+      "maths": 99,
+      "science": "22",
+      "language": 11,
+      "percentage": 44,
+      "id": 7
+    },
+    {
+      "name": "44",
+      "sex": "O",
+      "class": "II",
+      "maths": 66,
+      "science": 22,
+      "language": 99,
+      "percentage": 62,
+      "id": 8
+    },
+    {
+      "name": "AM",
+      "sex": "O",
+      "class": "V",
+      "maths": 33,
+      "science": 66,
+      "language": 11,
+      "percentage": 36.67,
+      "id": 9
+    },
+    {
+      "name": "Shivam",
+      "sex": "F",
+      "class": "III",
+      "maths": 66,
+      "science": 22,
+      "language": 22,
+      "percentage": 36.67,
+      "id": 10
+    }
+  ]
+}
